@@ -134,6 +134,7 @@ button {
   justify-content: space-between;
 
   padding: 0 6%;
+  position: fixed;
 }
 
 .logo {
